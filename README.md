@@ -27,10 +27,10 @@
 ### Stack
 
 ```
-Frontend   React · Next.js · TypeScript · Flutter
+Frontend   React · Next.js · TypeScript · Zustand
 Backend    Node.js · Python · Supabase · PostgreSQL
-AI/LLM     Claude · OpenAI · LangChain · n8n
-Infra      Vercel · DigitalOcean · Azure
+AI/LLM     Claude · OpenAI · Copilot 
+Infra      Cloudflare · AWS · GCP · Azure · Pulumi
 ```
 
 ---
