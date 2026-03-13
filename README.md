@@ -1,14 +1,7 @@
 # Adam Halasz
 
-**I help EdTech product leaders build AI-powered products that ship.**  
+**Fractional CPO/CTO for AI-native startups. I help technical founders ship better products.**  
 15 years · $277M raised by clients · 255M+ open source downloads · 4.8★ Clutch
-
----
-
-### What I'm building
-
-- **[Questingo](https://questingo.com)** — A SaaS product at the intersection of education and gaming, targeting the homeschooling market
-- **[Aimform](https://aimform.com)** — AI product strategy and fractional CPO/CTO for EdTech companies at 50–500 people
 
 ---
 
@@ -35,15 +28,10 @@ Infra      Cloudflare · AWS · GCP · Azure · Pulumi
 
 ---
 
-### Writing
-
-I publish the **AI Moat Autopsy** series on LinkedIn — a recurring breakdown of what's actually working in EdTech AI product strategy, and what's quietly failing.
-
-→ [Follow on LinkedIn](https://linkedin.com/in/adamhalasz)
-
----
 
 ### Get in touch
 
-[adamhalasz.com](https://adamhalasz.com) · [mail@adamhalasz.com](mailto:mail@adamhalasz.com)  
-Based in Hungary · Available globally
+[adamhalasz.com](https://adamhalasz.com) · [aimform.com](https://aimform.com) · [mail@adamhalasz.com](mailto:mail@adamhalasz.com)  
+Digital Nomad · Available globally
+
+
